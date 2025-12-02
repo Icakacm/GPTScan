@@ -10,6 +10,7 @@
 
 - 需要Python 3.10+
 - 安装依赖：`pip install -r requirements.txt`
+- 需要Java 17+
 
 2. 运行GPTScan
 
